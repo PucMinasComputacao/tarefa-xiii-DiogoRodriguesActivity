@@ -12,8 +12,8 @@ IMPORTANTE: Assim como informado anteriormente, capriche na etapa pois você vai
 
 ## Prints do trabalho
 
-![Tela Inicial](assets/img/TelaInicial.png)
+![Tela Inicial](public/assets/img/TelaInicial.png)
 
-![Tela de detalhe](assets/img/Detalhes.png)
+![Tela de detalhe](public/assets/img/Detalhes.png)
 
-![Tela do Console](assets/img/Console.png)
+![Tela do Console](public/assets/img/Console.png)
