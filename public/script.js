@@ -8,7 +8,7 @@ async function fetchItems() {
 
 function createCard(item) {
   const card = document.createElement("div");
-  card.className = "card";
+  card.className = "filme-card";
 
   card.innerHTML = `
     <img src="${item.imagem}" alt="${item.titulo}">

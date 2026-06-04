@@ -31,7 +31,7 @@ header h1 { font-size: 1.4rem; }
   gap: 20px;
 }
 
-.card {
+.filme-card {
   background: #1a1a1a;
   border: 1px solid #2a2a2a;
   border-radius: 10px;
@@ -40,16 +40,18 @@ header h1 { font-size: 1.4rem; }
   transition: transform 0.2s, border-color 0.2s;
 }
 
-.card:hover {
+.filme-card:hover {
   transform: translateY(-4px);
   border-color: #e8b14b;
 }
 
-.card img {
+.filme-card img {
   width: 100%;
   aspect-ratio: 2/3;
   object-fit: cover;
 }
+
+.filme-card .card-body { padding: 12px; }
 
 .card-body { padding: 12px; }
 
